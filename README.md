@@ -1,0 +1,2 @@
+# stack-realisation
+Реализация стэка.
